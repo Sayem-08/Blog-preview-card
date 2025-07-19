@@ -1,0 +1,9 @@
+@import url(./assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+@import url(./assets/fonts/Figtree-VariableFont_wght.ttf);
+@import url(./assets/fonts/static/Figtree-ExtraBold.ttf);
+@import url(./assets/fonts/static/Figtree-Medium.ttf);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
