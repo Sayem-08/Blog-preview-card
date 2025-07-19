@@ -4,7 +4,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
+  - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Links](#links)
   - [Built with](#built-with)
