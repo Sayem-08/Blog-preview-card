@@ -7,3 +7,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+html{
+    font-size: 12px;
+}
+body{
+    font-family: "Figtree", Arial, serif;
+    background-color: #F4D04E;
+    padding: 1rem;
+}
+.card{
+    background-color: #FFF;
+    max-width: 384px;
+    width: 80%;
+    height: 522px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 20px;
+}
+.card >img{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
