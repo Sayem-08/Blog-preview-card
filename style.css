@@ -60,4 +60,21 @@ p:first-of-type{
     font-size: 16px;
     color: #6B6B6B;
     line-height: 1.5em;
+    margin-bottom: 2rem;
+}
+.user img{
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    margin-right: 1rem;
+}
+.user p{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: bold;
+}
+h1:hover{
+    color: #F4D04E;
+    cursor: pointer;
 }
