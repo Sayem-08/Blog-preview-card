@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://) 
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-hm3KufdoUe) 
 - Live Site URL: [Live Demo](https://Sayem-08.github.io/Blog-preview-card)
 
 ### Built with
