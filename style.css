@@ -20,15 +20,15 @@ body{
     background-color: #FFF;
     max-width: 384px;
     max-height: 522px;
-    width: 80%;
-    height: 80%;
+    width: 90%;
+    height: 90%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 2rem;
-    border: 1px solid #000;
+    border: 1px solid #111;
     border-radius: 20px;
-    box-shadow: 6px 6px #000;
+    box-shadow: 6px 6px #111;
 }
 .card >img{
     width: 100%;
@@ -53,11 +53,11 @@ p:first-of-type{
     color: #111;
 }
 .content >h1{
-    font-size: 24px;
+    font-size: clamp(20px, 5vw, 24px);
     color: #111;
 }
 .content p{
-    font-size: 16px;
+    font-size: clamp(12px, 5vw, 16px);
     color: #6B6B6B;
     line-height: 1.5em;
     margin-bottom: 2rem;
